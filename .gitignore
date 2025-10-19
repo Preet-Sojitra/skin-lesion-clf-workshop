@@ -1,0 +1,6 @@
+.DS_Store
+.vscode
+Dataset
+*.zip
+data_seperation.ipyb
+plan.md
