@@ -4,3 +4,4 @@ Dataset
 *.zip
 data_seperation.ipyb
 plan.md
+*.pt
