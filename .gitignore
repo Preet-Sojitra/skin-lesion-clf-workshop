@@ -5,3 +5,5 @@ Dataset
 data_seperation.ipyb
 plan.md
 *.pt
+sample_for_gradio/
+.gradio
